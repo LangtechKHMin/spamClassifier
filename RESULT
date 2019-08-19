@@ -1,0 +1,52 @@
+A set : 747
+B set : 4812
+Whole Sentence:
+U have won a nokia 6230 plus a free digital camera. This is what u get when u win our FREE auction. To take part send NOKIA to 83383 now. POBOX114/14TCR/W1 16
+
+
+
+SENTENCE :
+U have won a nokia 6230 plus a free digital camera.
+
+Proposition 0 :
+won
+['U', 'have', 'won', 'digital', 'camera']
+Proposition 1 :
+
+[]
+Proposition 2 :
+
+[]
+###########
+
+SENTENCE :
+This is what u get when u win our FREE auction.
+
+Proposition 0 :
+is
+['is', 'get']
+Proposition 1 :
+win
+['u', 'win', 'auction']
+Proposition 2 :
+
+[]
+###########
+
+SENTENCE :
+To take part send NOKIA to 83383 now. POBOX114/14TCR/W1 16
+
+Proposition 0 :
+send
+['take', 'part', 'send', 'NOKIA']
+Proposition 1 :
+
+[]
+Proposition 2 :
+
+[]
+###########
+
+
+Process returned 0 (0x0)        execution time : 2.998 s
+계속하려면 아무 키나 누르십시오 . . .
